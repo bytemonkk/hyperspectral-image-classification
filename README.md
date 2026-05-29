@@ -148,5 +148,14 @@ MF-HSINet/
 - DSC Feature Refinement
 - Lightweight Deployment-Friendly Design
 - Evaluation on 9 Benchmark Datasets
+---
+
+## Why MF-HSINet?
+
+Unlike conventional hyperspectral classification approaches that rely solely on spectral information, MF-HSINet jointly models spectral signatures and spatial structures through a dual-branch framework.
+
+The integration of ResBlock1D spectral learning, CLIP-based spatial representation learning, attention fusion, gated attention, transformer modeling, and DSC refinement enables the network to capture discriminative spectral-spatial features while maintaining computational efficiency.
+
+This design allows MF-HSINet to achieve strong performance across diverse benchmark datasets and real-world remote sensing scenarios.
 
 ---
