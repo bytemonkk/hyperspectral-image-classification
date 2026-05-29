@@ -1,0 +1,72 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Weights
+checkpoints/
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+datasets/
+data/
+*.mat
+*.h5
+*.npy
+*.npz
+
+# Results
+results/
+outputs/
+runs/
+
+# TensorBoard
+logs/
+events.out.tfevents.*
+
+# Cache
+.cache/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Coverage
+.coverage
+htmlcov/
+
+# Notebook Outputs
+*.html
+
+# Generated Figures
+figures/
