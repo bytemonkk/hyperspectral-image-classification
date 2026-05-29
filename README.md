@@ -150,16 +150,3 @@ MF-HSINet/
 - Evaluation on 9 Benchmark Datasets
 
 ---
-
-## Research Guidance
-
-**Prof. Panigrahi Srikanth**  
-Department of Artificial Intelligence and Machine Learning (AI & ML)
-
----
-
-## Author
-
-**Manoj Kumar Sunkara**
-
----
