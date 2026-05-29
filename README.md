@@ -79,10 +79,12 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 
 ---
 
-## Experimental Results
+## Additional Analysis
+
+### Cohen's Kappa Radar Chart
 
 <p align="center">
-  <img src="assets/results.png" width="100%">
+  <img src="charts/kappa_radar.png" width="70%">
 </p>
 
 ---
