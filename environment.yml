@@ -1,0 +1,29 @@
+name: mfhsinet
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - pillow
+  - h5py
+  - tqdm
+  - jupyter
+
+  - pip:
+      - torch
+      - torchvision
+      - torchaudio
+      - transformers
+      - open_clip_torch
+      - einops
+      - spectral
