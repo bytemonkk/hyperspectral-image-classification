@@ -68,7 +68,13 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 <p align="center">
   <img src="assets/architecture.png" width="100%">
 </p>
+---
 
+# Workflow Pipeline
+
+<p align="center">
+  <img src="assets/workflow.png" width="100%">
+</p>
 ---
 
 ## Experimental Results
