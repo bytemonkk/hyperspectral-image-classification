@@ -84,13 +84,13 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 | Dataset | OA (%) | AA (%) | Kappa |
 |----------|---------|---------|---------|
 | WHU-Hi LongKou | 99.89 | 99.68 | 0.9985 |
-| WHU-Hi HanChuan | 99.97 | - | 0.9997 |
+| WHU-Hi HanChuan | 99.97 | 99.79 | 0.9997 |
 | Pavia University | 99.84 | 99.62 | 0.9978 |
 | Pavia Centre | 99.98 | 99.91 | 0.9997 |
 | Salinas | 99.65 | 99.84 | 0.9961 |
 | Botswana | 98.15 | 98.40 | 0.9800 |
 | Kennedy Space Center | 99.43 | 99.16 | 0.9936 |
-| WHU-Hi HongHu | 92.40 | - | 0.9035 |
+| WHU-Hi HongHu | 92.40 | 92.04 | 0.9035 |
 
 ---
 
